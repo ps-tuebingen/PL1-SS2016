@@ -1,7 +1,9 @@
-PL1-2014
+PL1-SS2016
 ========
 
 Programming Languages I - University of Tübingen
+
+Schedule to be updated.
 
 Schedule
 --------
